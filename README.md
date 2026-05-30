@@ -3,7 +3,7 @@
 End-to-end **solar panel defect classification** to classify solar panel defects using deep learning, with a deployed web app for real-time predictions.
 
 ## 🚀 Live Demo
-https://solar-panel-defect-classification-6wfcxnundfwnje3blfgfua.streamlit.app/
+https://solar-panel-defect-classification-project-de45j4ofwrtsmu6ajcrb.streamlit.app/
 
 ## 🧠 Problem
 Manual inspection of solar panels is slow, costly, and not scalable. This project automates defect detection using image classification.
