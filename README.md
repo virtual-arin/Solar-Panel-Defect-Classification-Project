@@ -28,3 +28,4 @@ Manual inspection of solar panels is slow, costly, and not scalable. This projec
 - Solar farm monitoring  
 - Predictive maintenance  
 - Automated inspection systems  
+   

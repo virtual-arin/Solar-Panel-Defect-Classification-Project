@@ -11,7 +11,7 @@ st.set_page_config(
     page_title="Solar Panel Defect Detection",
     page_icon="☀️",
     layout="centered"
-)
+)    
 
 # -------------------------
 # LOAD MODEL
