@@ -1,6 +1,6 @@
-# ☀️ Solar Panel Defect Detection System
+# 🌞 Solar Panel Defect Detection System
 
-## 🛡️ Business Domain
+## 🌆 Business Domain
 Renewable Energy
 
 ---
